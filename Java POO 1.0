@@ -1,0 +1,13 @@
+
+public class Hello {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("Olá Mundo");
+String nome = "fulano da Silva"; //String	}
+
+	int num1 = 2//Inteiro
+	double num2 = 10.2//
+	float num3 = 10.2f//
+	char letra 'A'; //Caracteres
+	}
